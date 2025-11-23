@@ -1,0 +1,14 @@
+Test Case 1: Login test
+- Browsers: Chrome, Firefox, Edge
+- Steps:
+  1. Open https://example.com
+  2. Verify the page title
+- Expected Result: The title contains "Example Domain"
+
+Test Case 2: Russian Wikipedia navigation
+- Browsers: Chrome, Firefox, Edge
+- Steps:
+  1. Open https://www.wikipedia.org
+  2. Click on the "Русский" link
+  3. Verify the page title
+- Expected Result: The title contains "Википедия"
